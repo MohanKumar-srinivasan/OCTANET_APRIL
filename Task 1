@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Events</title>
+        <link rel="icon" href="img/date.png">
+
+    </head>
+
+
+    <body bgcolor="black" style="color:yellowgreen">
+        <center>
+        <h1>UPCOMING EVENTS📅</h1>
+        <p> Don't miss any of your important events. stay update</p>
+        </center>
+        <hr>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi itaque repellendus aspernatur quidem beatae dolore magnam distinctio odit illum omnis autem sint ut officia molestiae eveniet iste, velit praesentium? Nemo non ipsam repellat magni laudantium alias animi, velit autem quibusdam. Inventore saepe aliquam quae ducimus aut officia accusantium suscipit eaque quidem debitis reprehenderit doloribus dolorum repellat ullam assumenda perferendis quo dignissimos repellendus excepturi laudantium ex, unde quia culpa fugiat! Provident tenetur fugiat ullam necessitatibus, qui laboriosam ducimus autem harum dolorum culpa dolore, suscipit perferendis maxime dolor, voluptates accusantium. Non, omnis veniam enim sed obcaecati iste asperiores quasi suscipit vel impedit.
+        </p>
+        <center>
+        <img src="img/event1.png">
+        <h1>photo gallery</h1>
+        <h2> Free Enter|Free Food|pets not allowed</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, nam, adipisci animi consequuntur expedita explicabo accusantium doloremque doloribus eligendi deserunt quae quos eum modi eius necessitatibus, dolorem incidunt mollitia provident harum debitis distinctio maiores error iusto. Vitae blanditiis quos eos corrupti, soluta optio mollitia error doloribus. Doloremque repellat labore pariatur!</p>
+        </center>
+        <center>
+            <img src="img/event2.png">
+            <h1>
+               <a href="https://www.flipkart.com/">Fashion store</a> 
+            </h1>
+            <h2> free Enter|Free Food|pets not allowed
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, nam, adipisci animi consequuntur expedita explicabo accusantium doloremque doloribus eligendi deserunt quae quos eum modi eius necessitatibus, dolorem incidunt mollitia provident harum debitis distinctio maiores error iusto. Vitae blanditiis quos eos corrupti, soluta optio mollitia error doloribus. Doloremque repellat labore pariatur!</p>
+            </h2>
+        </center>
+        <hr>
+        <center>
+        <h1>CONTACT</h1>
+        <h2> +91 8760755000| eventssalem@gamil.com</h2>
+        <h3>201/6, Junction Main Rd, State Bank Colony, Meyyanur, Salem, Tamil Nadu</h3>
+        </center>
+
+    </body>
+
+</html>
+
+
